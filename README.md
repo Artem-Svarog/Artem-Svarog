@@ -1,0 +1,5 @@
+- 👋 Hi folks, I’m @Artem-Svarog
+- 👀 I’m interested in product development
+- 🌱 I’m currently learning JS, Python, SQL
+- 💞️ I’m looking to collaborate on startups
+- 📫 How to reach me? Easily! a.repin1987@gmail.com 
